@@ -2,7 +2,7 @@
 Exploring Snapchat political ads data and building a simple linear regression model to predict the number of impressions on a given ad 
 
 ## Background
-Snap Inc provides data on all political and advocacy-related advertisements shown on Snapchat with the aim of increasing the level of transparency on the platform. The Snap Inc. Political and Advocacy Ads Library contains all political, issue, and advocacy ads along with relevant information on impressions, spend, and paying entities. This project addresses the vital need to understand how political organizations use social media to spread their messages to potential voters
+Snap Inc provides data on all political and advocacy-related advertisements shown on Snapchat with the aim of increasing the level of transparency on the platform. The Snap Inc. Political and Advocacy Ads Library contains all political, issue, and advocacy ads along with relevant information on impressions, spend, and paying entities. By using the Snapchat Ads datasets from 2018 and 2019, this project addresses the vital need to understand how political organizations use social media to spread their messages to potential voters
 
 ## Project Overview
 This project is split into two sections. 
